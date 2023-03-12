@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OYiwsJjELcdwWzN3vpiYwlCYXZ5jc/Gg35HstE9EtCwGoIxZn1P8SCQTj4Me06dmEk/Y3vHFrOyVl6xbofdV2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\manas\\source\\repos\\FinanceApp\\FinanceApp\\FinanceApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manas\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
