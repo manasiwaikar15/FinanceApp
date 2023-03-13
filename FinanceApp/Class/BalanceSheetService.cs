@@ -4,8 +4,15 @@ namespace FinanceApp.Class
 {
     public class BalanceSheetService : IBalanceSheetService
     {
-        private readonly List<Income> incomes = new();
-        private readonly List<Expense> expenses = new();
+        private readonly List<Income> incomes;
+        private readonly List<Expense> expenses;
+        
+        public BalanceSheetService()
+        {
+            this.incomes = new List<Income>();
+            this.expenses = new List<Expense>();
+            
+        }
 
         public List<Income> GetIncomes()
         {

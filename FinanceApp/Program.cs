@@ -6,13 +6,6 @@ namespace FinanceApp
 
     class Program
     {
-        private readonly IBalanceSheetService budgetService;
-
-        public Program(IBalanceSheetService budgetService)
-        {
-            this.budgetService = budgetService;
-        }
-
         static void Main(string[] args)
         {
             IBalanceSheetService budgetService = new BalanceSheetService();
